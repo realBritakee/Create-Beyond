@@ -41,5 +41,8 @@
 <br/>
 <p>✔️&nbsp;<strong>Tons of QoL Features</strong>: Over 450+ mods tailored for an immersive experience.<br><br>✔️&nbsp;<strong>Extensive Collection Challenges</strong>: Gather unique items and rewards for your collection.<br><br>✔️ <strong>Quest Shop:</strong> Create complex automations to acquire epic items and buy some unique items with coins.<br><br>✔️ <strong>Multiplayer-Focused Design</strong>: Tailored with multiplayer in mind, enhancing collaborative play for an engaging community experience.<br><br>✔️ <strong>Performance Optimized</strong>: Experience smooth gameplay, fine-tuned for performance.<br><br>✔️ <strong>Frequent Updates<br><br>✔️ Built-in shaders<br><br></strong>&nbsp;<strong>And much much more...</strong></p>
 <br/>
+
+#
+
 <br/>
 <p>Full mod list and their credits can be found here:&nbsp;<a href="https://legacy.curseforge.com/minecraft/modpacks/create-beyond-earth/relations/dependents" rel="nofollow">https://legacy.curseforge.com/minecraft/modpacks/create-beyond-earth/relations/dependents</a></p>
