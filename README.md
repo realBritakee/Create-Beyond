@@ -5,6 +5,9 @@
 <br/>
 <a href="https://dsc.gg/britakeestudio" rel="nofollow"><img src="https://img.shields.io/discord/1272931953821352047?style=for-the-badge&label=Britakee%20Studio&labelColor=0c1323&color=f97044" width="186" height="28"></a></p>
 <br/>
+
+#
+
 <br/>
 <strong>we add a variety of modѕ and compileѕ them into an epic technological journey toward ѕpace travel. It merges magic, exploration, bosses, and the Create Mod, featuring custom recipes and extensive exploration while staying close to vanilla Minecraft. If you're unfamiliar with certain mods, this pack includes quests to guide you through the new content. One of the last things to unlock is Applied Energistics 2. Perfect for fans of Create and exploration gameplay.</strong>
 <br/>
@@ -31,6 +34,10 @@
 <p>🐉 <span style="color:#e67e23"><strong>Dragons</strong>:</span> Encounter majestic dragons from <span style="text-decoration:underline">Ice and Fire</span> mod, battling and uncovering their secrets. With skill and courage, tame these formidable creatures to become your allies.</p>
 <br/>
 <p>🚀&nbsp;<span style="color:#e67e23"><strong>Space Exploration</strong>:</span> Embark on cosmic journeys with<span style="text-decoration:underline"> Ad Astra</span>, exploring the vastness of space and uncovering its mysteries.&nbsp;</p>
+<br/>
+
+#
+
 <br/>
 <p>✔️&nbsp;<strong>Tons of QoL Features</strong>: Over 450+ mods tailored for an immersive experience.<br><br>✔️&nbsp;<strong>Extensive Collection Challenges</strong>: Gather unique items and rewards for your collection.<br><br>✔️ <strong>Quest Shop:</strong> Create complex automations to acquire epic items and buy some unique items with coins.<br><br>✔️ <strong>Multiplayer-Focused Design</strong>: Tailored with multiplayer in mind, enhancing collaborative play for an engaging community experience.<br><br>✔️ <strong>Performance Optimized</strong>: Experience smooth gameplay, fine-tuned for performance.<br><br>✔️ <strong>Frequent Updates<br><br>✔️ Built-in shaders<br><br></strong>&nbsp;<strong>And much much more...</strong></p>
 <br/>
