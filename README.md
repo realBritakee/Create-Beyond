@@ -9,7 +9,7 @@
 <strong>we add a variety of modѕ and compileѕ them into an epic technological journey toward ѕpace travel. It merges magic, exploration, bosses, and the Create Mod, featuring custom recipes and extensive exploration while staying close to vanilla Minecraft. If you're unfamiliar with certain mods, this pack includes quests to guide you through the new content. One of the last things to unlock is Applied Energistics 2. Perfect for fans of Create and exploration gameplay.</strong>
 <br/>
 <br/>
-<h2 style="text-align:center"><strong>FEATURES</strong></h2>
+<p align="center"><strong>FEATURES</strong></p>
 <br/>
 <p>📖 <span style="color:#e67e23"><strong>Over 800+ quests to guide you</strong>: </span>Follow progression-based quests through 10 chapters focused on <span style="text-decoration:underline">Create</span>. Master assembly lines and automation techniques, unlocking new content with each chapter.</p>
 <br/>
