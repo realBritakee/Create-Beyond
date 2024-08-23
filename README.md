@@ -1,6 +1,6 @@
 <h2 style="text-align:center"><img src="https://i.imgur.com/hoidEzL.png"></h2>
 <br/>
-<h3 style="text-align:center">440+ Mods | 10 Create Chapters | Epic Battles | 8-10GB Recommended
+<h3 style="text-align:center">450+ Mods | 10 Create Chapters | Epic Battles | 8-10GB Recommended
 <br/>
 <br/>
 <a href="https://dsc.gg/britakeestudio" rel="nofollow"><img src="https://img.shields.io/discord/1272931953821352047?style=for-the-badge&label=Britakee%20Studio&labelColor=0c1323&color=f97044" width="186" height="28"></a></h3>
