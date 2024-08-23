@@ -1,4 +1,4 @@
-<h2 style="text-align:center"><img src="https://i.imgur.com/hoidEzL.png"></h2>
+<img src="https://i.imgur.com/hoidEzL.png">
 <br/>
 <h3 style="text-align:center">450+ Mods | 10 Create Chapters | Epic Battles | 8-10GB Recommended
 <br/>
