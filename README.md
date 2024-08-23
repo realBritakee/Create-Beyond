@@ -6,8 +6,6 @@
 <a href="https://dsc.gg/britakeestudio" rel="nofollow"><img src="https://img.shields.io/discord/1272931953821352047?style=for-the-badge&label=Britakee%20Studio&labelColor=0c1323&color=f97044" width="186" height="28"></a></p>
 <br/>
 <br/>
-# Description
-<br/>
 <strong>we add a variety of modѕ and compileѕ them into an epic technological journey toward ѕpace travel. It merges magic, exploration, bosses, and the Create Mod, featuring custom recipes and extensive exploration while staying close to vanilla Minecraft. If you're unfamiliar with certain mods, this pack includes quests to guide you through the new content. One of the last things to unlock is Applied Energistics 2. Perfect for fans of Create and exploration gameplay.</strong>
 <br/>
 <br/>
