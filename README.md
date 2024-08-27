@@ -1,4 +1,4 @@
-<a href="https://www.curseforge.com/members/realbritakee/projects" rel="nofollow"><img src="https://i.imgur.com/hoidEzL.png">
+<a href="https://www.curseforge.com/minecraft/modpacks/create-beyond-earth" rel="nofollow"><img src="https://i.imgur.com/hoidEzL.png">
 <br/>
 <p align="center">450+ Mods | 10 Create Chapters | Epic Battles | 8-10GB Recommended
 <br/>
